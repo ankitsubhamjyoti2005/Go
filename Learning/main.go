@@ -9,4 +9,4 @@ func main(){
 	
 	var conf_name = "go conference"
 	fmt.Println(conf_name + "is the variable name")
-}
+} 
